@@ -1,6 +1,8 @@
 # HTML A4 Paper
 
-Create your own printable A4 page with HTML and CSS!!
+If you are a web developer who is sick of setting your documents layout...
+
+Create your own A4 page with HTML and CSS!!
 
 ```html
 <body>
